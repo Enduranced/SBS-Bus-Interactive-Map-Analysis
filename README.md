@@ -1,5 +1,5 @@
 
-# Findings
+# Analysis & Findings 
  
 SBS Transit routes are observed to be concentrated towards the east side of Singapore, a pattern of bus stops along the MRT lines. It appears the presence of a MRT station may have more influence over the number of bus stops than the population density in an area. Perhaps for this reason, the majority of bus stops appear to be within the core central region and rest of central region, where there is a higher concentration of MRT stations. 
 One reason for this observation may be that MRT stations are often, if not always, accompanied by bus stops or bus interchanges, creating the opportunity for the bus operators to map their routes to the MRTs. By passing SBS bus routes through these stations, SBS would benefit from a higher ridership from those making the last mile journey from MRT to their destinations. Whereas had the SBS bus routes been planned without stopping by a MRT station, SBS would be missing out on these commuters who use buses to connect to MRT stations. Therefore, it would make commercial sense for SBS to route as many buses to stop at MRT stations as possible without cannibalising their own market share. This would mean more bus lines are connected to these bus stops. Hence, resulting in a pattern of bus routes clustering around MRT stations. 
