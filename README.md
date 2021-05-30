@@ -4,8 +4,8 @@ the downside to this clustering effect is there may be areas that have a relativ
 
 ![alt text](https://github.com/Enduranced/SBS-Bus-Interactive-Map-Analysis/blob/main/Example_Of_Interactive_Map.png)
 
-\\
+\bold{Bus Information}
 ![alt text](https://github.com/Enduranced/SBS-Bus-Interactive-Map-Analysis/blob/main/Bus_Information.PNG)
 
-\\
-![alt text](https://github.com/Enduranced/SBS-Bus-Interactive-Map-Analysis/blob/main/Bus_Information.PNG)
+\bold{Population Distribution}
+![alt text](https://github.com/Enduranced/SBS-Bus-Interactive-Map-Analysis/blob/main/Population%20Distribution.PNG)
