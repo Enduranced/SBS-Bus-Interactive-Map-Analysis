@@ -7,7 +7,7 @@ the downside to this clustering effect is there may be areas that have a relativ
 
 ## 5 Key insights of data:
 
-1. SBS has services a total of 293 day busservices
+1.  SBS has a total of 293 day busservices across the island
 2.  It's longest busride is a loop service by 70M that starts from Yio Chu Kang Int. (https://www.transitlink.com.sg/eservice/eguide/service_route.php?service=70M)
 3.  SBS covers a total of 3530 busstops out of a total of 5008 (Which is about 70% of Singapore's Busstops available)
 4.  The most popular (Non-Interchange busstop) that has the most SBS bus passing through is Blk 401 Tampines Ave 7 (76191) with a total of 16 SBS bus services
